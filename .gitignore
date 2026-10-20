@@ -1,0 +1,25 @@
+# macOS / Windows
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+*.swp
+
+# Python
+__pycache__/
+.env
+
+# Node
+node_modules/
+
+# Logs
+*.log
+
+# Credentials
+*.pem
+*.key
+
+# Personal documents (scans, IDs) - never commit
+private/
